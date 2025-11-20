@@ -1,4 +1,4 @@
-# RAG Document Assistant
+# SimpleRAG_with_Autoingest (Document Assistant)
 
 A powerful, local Retrieval-Augmented Generation (RAG) system that uses Anthropic's Claude and local embeddings to answer questions about your documents.
 
